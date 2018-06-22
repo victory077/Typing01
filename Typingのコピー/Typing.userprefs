@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/TypingGameSystemForUnity-master/sample/Kanzidictionary.txt">
+    <Files>
+      <File FileName="Assets/TypingGameSystemForUnity-master/sample/dictionary.txt" Line="1" Column="1" />
+      <File FileName="Assets/TypingGameSystemForUnity-master/sample/Dictionary.cs" Line="1" Column="1" />
+      <File FileName="Assets/TypingGameSystemForUnity-master/sample/testKanziDic.txt" Line="1" Column="1" />
+      <File FileName="Assets/TypingGameSystemForUnity-master/sample/TypeObject.cs" Line="1" Column="1" />
+      <File FileName="Assets/TypingGameSystemForUnity-master/TypingSystem.cs" Line="1" Column="1" />
+      <File FileName="Assets/TypingGameSystemForUnity-master/sample/testDic.txt" Line="1" Column="1" />
+      <File FileName="Assets/TypingGameSystemForUnity-master/sample/Kanzidictionary.txt" Line="52" Column="7" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
